@@ -2,6 +2,9 @@
 
 Decentralized secret data crowd sourcing platform 
 
+Deployed CA (EduChain)-0xCFEe5Cf89d9f865C41744a475420Ed741F192e22
+Wallet Address-0xC0061d8aec499163146FFE54f23F2f69450b99aE
+
 
 **The Problem**
 
